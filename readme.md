@@ -1,4 +1,5 @@
-# From website to a table
+# Scraping with Python
+![Learn to stop worrying and love Python ^^](img/linechart.png)
 
 ## Homework
 1. Write these scrapers again
@@ -11,4 +12,5 @@ Try these plugins for chrome:
 * [Webscraper](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn): can scrape multiple pages
 * [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd): handy for scraping simple table on just one site
 
+---
 * [get the presentation](tinyurl.com/pythonscraping2021)
